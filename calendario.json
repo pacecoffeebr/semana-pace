@@ -1,61 +1,548 @@
 {
   "atualizadoEm": "2026-10-04",
   "fontes": {
-    "sp": { "nome": "Prefeitura de São Paulo", "url": "https://prefeitura.sp.gov.br/web/esportes/w/corridas_de_rua/8722" },
-    "santos": { "nome": "Prefeitura de Santos", "url": "https://www.santos.sp.gov.br/?q=hotsite%2Feventos-esportivos-2026" }
+    "sp": {
+      "nome": "Prefeitura de São Paulo",
+      "url": "https://prefeitura.sp.gov.br/web/esportes/w/corridas_de_rua/8722"
+    },
+    "santos": {
+      "nome": "Prefeitura de Santos",
+      "url": "https://www.santos.sp.gov.br/?q=hotsite%2Feventos-esportivos-2026"
+    }
   },
   "eventos": [
-    { "id": "sp-20261011-4elementos", "data": "2026-10-11", "nome": "Etapa Circuito 4 Elementos", "cidade": "sp", "esporte": "corrida", "local": "Shopping Metrô Itaquera" },
-    { "id": "sp-20261011-stfrs-jk", "data": "2026-10-11", "nome": "Santander Track&Field Run Series · JK Iguatemi III", "cidade": "sp", "esporte": "corrida", "local": "Marginal Pinheiros" },
-    { "id": "sp-20261011-ibcc", "data": "2026-10-11", "nome": "Corrida e Caminhada Contra o Câncer de Mama · IBCC", "cidade": "sp", "esporte": "corrida", "local": "ALESP · Ibirapuera" },
-    { "id": "santos-20261011-graacc", "data": "2026-10-11", "nome": "11ª Corrida e Caminhada Doe Vida GRAACC", "cidade": "santos", "esporte": "corrida", "local": "Praça do Aquário" },
-    { "id": "sp-20261012-paineiras", "data": "2026-10-12", "nome": "Running Paineiras do Morumbi", "cidade": "sp", "esporte": "corrida", "local": "Av. das Begônias" },
-    { "id": "sp-20261018-cartoon", "data": "2026-10-18", "nome": "Corrida Cartoon", "cidade": "sp", "esporte": "corrida", "local": "Campo de Marte" },
-    { "id": "sp-20261018-stfrs-centernorte", "data": "2026-10-18", "nome": "Santander Track&Field Run Series · Center Norte III", "cidade": "sp", "esporte": "corrida", "local": "Shopping Center Norte" },
-    { "id": "sp-20261018-athenas", "data": "2026-10-18", "nome": "Athenas Run Longer", "cidade": "sp", "esporte": "corrida", "local": "Parque do Povo · Marginal Pinheiros" },
-    { "id": "sp-20261018-trigo", "data": "2026-10-18", "nome": "8ª Corrida do Trigo", "cidade": "sp", "esporte": "corrida", "local": "Praça Charles Miller" },
-    { "id": "sp-20261018-smartfit", "data": "2026-10-18", "nome": "Smart Fit Run", "cidade": "sp", "esporte": "corrida", "local": "Parque da Independência" },
-    { "id": "sp-20261018-sportv", "data": "2026-10-18", "nome": "6ª Sportv Run · Super 10K", "cidade": "sp", "esporte": "corrida", "local": "Obelisco · Ibirapuera" },
-    { "id": "santos-20261018-santista4", "data": "2026-10-18", "nome": "39º Campeonato Santista de Pedestrianismo · 4ª etapa", "cidade": "santos", "esporte": "corrida", "local": "Local a confirmar" },
-    { "id": "sp-20261024-nightrun", "data": "2026-10-24", "nome": "Night Run · Etapa 2", "cidade": "sp", "esporte": "corrida", "local": "Campo de Marte" },
-    { "id": "sp-20261031-darkrun", "data": "2026-10-31", "nome": "Corrida Dark Run", "cidade": "sp", "esporte": "corrida", "local": "CERET" },
-    { "id": "sp-20261101-contracancer", "data": "2026-11-01", "nome": "Correndo Contra o Câncer", "cidade": "sp", "esporte": "corrida", "local": "Ponte Estaiada · Marginal Pinheiros" },
-    { "id": "sp-20261101-dorina", "data": "2026-11-01", "nome": "Corrida Dorina · Para Todos os Sentidos", "cidade": "sp", "esporte": "corrida", "local": "Parque da Independência" },
-    { "id": "sp-20261101-deleseldelas", "data": "2026-11-01", "nome": "Corrida Deles e Delas", "cidade": "sp", "esporte": "corrida", "local": "CERET" },
-    { "id": "sp-20261101-maismulher", "data": "2026-11-01", "nome": "Corrida Circuito Mais Mulher 2026", "cidade": "sp", "esporte": "corrida", "local": "Praça Charles Miller" },
-    { "id": "sp-20261108-ecorun", "data": "2026-11-08", "nome": "Eco Run", "cidade": "sp", "esporte": "corrida", "local": "Parque Villa-Lobos" },
-    { "id": "sp-20261108-diabetes", "data": "2026-11-08", "nome": "Corrida e Caminhada Novembro Diabetes Azul 2026", "cidade": "sp", "esporte": "corrida", "local": "CERET" },
-    { "id": "sp-20261108-popular", "data": "2026-11-08", "nome": "Circuito Popular de Corridas de Rua da Cidade de São Paulo", "cidade": "sp", "esporte": "corrida", "local": "Praça do Patriarca" },
-    { "id": "santos-20261108-santista5", "data": "2026-11-08", "nome": "Campeonato Santista de Pedestrianismo · 5ª etapa", "cidade": "santos", "esporte": "corrida", "local": "Local a confirmar" },
-    { "id": "sp-20261115-meiasampa", "data": "2026-11-15", "nome": "Meia de Sampa", "cidade": "sp", "esporte": "corrida", "local": "Parque do Povo · Marginal Pinheiros" },
-    { "id": "sp-20261115-caixa", "data": "2026-11-15", "nome": "Circuito de Corridas CAIXA 2026 · Etapa SP", "cidade": "sp", "esporte": "corrida", "local": "Parque da Independência" },
-    { "id": "sp-20261115-minalba", "data": "2026-11-15", "nome": "4ª Desafio Minalba", "cidade": "sp", "esporte": "corrida", "local": "Obelisco · Ibirapuera" },
-    { "id": "sp-20261115-liverun", "data": "2026-11-15", "nome": "Corrida LIVE! Run", "cidade": "sp", "esporte": "corrida", "local": "Praça Charles Miller" },
-    { "id": "sp-20261115-tomjerry", "data": "2026-11-15", "nome": "Corrida Tom & Jerry", "cidade": "sp", "esporte": "corrida", "local": "Campo de Marte" },
-    { "id": "santos-20261115-santosrun", "data": "2026-11-15", "nome": "12ª Santos Run 8K", "cidade": "santos", "esporte": "corrida", "local": "Vila Belmiro" },
-    { "id": "sp-20261120-kilombo", "data": "2026-11-20", "nome": "Corrida Corre Kilombo", "cidade": "sp", "esporte": "corrida", "local": "Vale do Anhangabaú" },
-    { "id": "sp-20261120-consciencia", "data": "2026-11-20", "nome": "9ª Corrida e Caminhada da Consciência", "cidade": "sp", "esporte": "corrida", "local": "Praça Charles Miller" },
-    { "id": "sp-20261122-mulhermaravilha", "data": "2026-11-22", "nome": "12ª Corrida Mulher Maravilha", "cidade": "sp", "esporte": "corrida", "local": "Praça do Patriarca · Centro Histórico" },
-    { "id": "sp-20261122-santana", "data": "2026-11-22", "nome": "Corrida Volta de Santana", "cidade": "sp", "esporte": "corrida", "local": "Clube Esperia" },
-    { "id": "sp-20261122-disney", "data": "2026-11-22", "nome": "Disney Magic Run", "cidade": "sp", "esporte": "corrida", "local": "Obelisco · Ibirapuera" },
-    { "id": "sp-20261122-pacerun", "data": "2026-11-22", "nome": "Pace Run", "cidade": "sp", "esporte": "corrida", "local": "Parque Villa-Lobos" },
-    { "id": "sp-20261128-stormrun", "data": "2026-11-28", "nome": "Storm Run · Night Edition", "cidade": "sp", "esporte": "corrida", "local": "Campo de Marte" },
-    { "id": "sp-20261129-stfrs-farol", "data": "2026-11-29", "nome": "Santander Track&Field Run Series · Farol Santander", "cidade": "sp", "esporte": "corrida", "local": "Centro Histórico" },
-    { "id": "sp-20261129-venus", "data": "2026-11-29", "nome": "Venus Women's Half Marathon", "cidade": "sp", "esporte": "corrida", "local": "Parque do Povo · Marginal Pinheiros" },
-    { "id": "sp-20261129-icesp", "data": "2026-11-29", "nome": "ICESP Run", "cidade": "sp", "esporte": "corrida", "local": "Praça Charles Miller" },
-    { "id": "sp-20261129-ecorun-special", "data": "2026-11-29", "nome": "EcoRun · Special Edition", "cidade": "sp", "esporte": "corrida", "local": "Parque da Independência" },
-    { "id": "sp-20261206-inclusao", "data": "2026-12-06", "nome": "XII Inclusão a Toda Prova · Corrida e Caminhada", "cidade": "sp", "esporte": "corrida", "local": "Obelisco · Ibirapuera" },
-    { "id": "sp-20261206-stfrs-vilaolimpia", "data": "2026-12-06", "nome": "Santander Track&Field Run Series · Vila Olímpia II", "cidade": "sp", "esporte": "corrida", "local": "Shopping Villa-Lobos" },
-    { "id": "sp-20261213-montelibano", "data": "2026-12-13", "nome": "44ª Monte Líbano Run", "cidade": "sp", "esporte": "corrida", "local": "Av. República do Líbano, 2267" },
-    { "id": "sp-20261213-cidadania", "data": "2026-12-13", "nome": "25ª Corrida pela Cidadania · Projeto Arrastão", "cidade": "sp", "esporte": "corrida", "local": "Parque do Povo · Marginal Pinheiros" },
-    { "id": "sp-20261213-gonzaguinha", "data": "2026-12-13", "nome": "59ª Corrida Sargento Gonzaguinha", "cidade": "sp", "esporte": "corrida", "local": "Av. Cruzeiro do Sul" },
-    { "id": "sp-20261213-tfexperience", "data": "2026-12-13", "nome": "Track&Field Experience · Running", "cidade": "sp", "esporte": "corrida", "local": "CERET" },
-    { "id": "santos-20261213-inclusao", "data": "2026-12-13", "nome": "Corrida Inclusão ao Inverso", "cidade": "santos", "esporte": "corrida", "local": "Jardim Botânico" },
-    { "id": "sp-20261219-barbie", "data": "2026-12-19", "nome": "Corrida Barbie Run", "cidade": "sp", "esporte": "corrida", "local": "Campo de Marte" },
-    { "id": "sp-20261219-hotwheels", "data": "2026-12-19", "nome": "Hot Wheels Run Experience", "cidade": "sp", "esporte": "corrida", "local": "Campo de Marte" },
-    { "id": "sp-20261220-estacoes", "data": "2026-12-20", "nome": "Circuito das Estações · Verão", "cidade": "sp", "esporte": "corrida", "local": "Praça Charles Miller" },
-    { "id": "sp-20261220-stfrs-villalobos", "data": "2026-12-20", "nome": "Santander Track&Field Run Series · Villa-Lobos III", "cidade": "sp", "esporte": "corrida", "local": "Shopping JK · Marginal Pinheiros" },
-    { "id": "sp-20261220-natal", "data": "2026-12-20", "nome": "Corrida de Natal", "cidade": "sp", "esporte": "corrida", "local": "CERET" },
-    { "id": "sp-20261231-saosilvestre", "data": "2026-12-31", "nome": "101ª Corrida Internacional de São Silvestre", "cidade": "sp", "esporte": "corrida", "local": "Av. Paulista · Centro" }
+    {
+      "id": "santos-20261011-graacc",
+      "data": "2026-10-11",
+      "nome": "11ª Corrida e Caminhada Doe Vida GRAACC",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Praça do Aquário",
+      "link": "https://page.ticketsports.com.br/calendario-dbueno-2026/",
+      "fonte": {
+        "nome": "DBueno (organizador)",
+        "url": "https://page.ticketsports.com.br/calendario-dbueno-2026/"
+      }
+    },
+    {
+      "id": "sp-20261011-4elementos",
+      "data": "2026-10-11",
+      "nome": "Etapa Circuito 4 Elementos",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping Metrô Itaquera"
+    },
+    {
+      "id": "sp-20261011-stfrs-jk",
+      "data": "2026-10-11",
+      "nome": "Santander Track&Field Run Series · JK Iguatemi III",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261011-ibcc",
+      "data": "2026-10-11",
+      "nome": "Corrida e Caminhada Contra o Câncer de Mama · IBCC",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "ALESP · Ibirapuera"
+    },
+    {
+      "id": "sp-20261012-paineiras",
+      "data": "2026-10-12",
+      "nome": "Running Paineiras do Morumbi",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. das Begônias"
+    },
+    {
+      "id": "santos-20261018-santista4",
+      "data": "2026-10-18",
+      "nome": "39º Campeonato Santista de Pedestrianismo · 4ª etapa",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar"
+    },
+    {
+      "id": "santos-20261018-correesamba",
+      "data": "2026-10-18",
+      "nome": "Corre e Samba · 14ª Corrida Solidária RP Run Club",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Largada (agregador)",
+        "url": "https://largada.vip/eventos/sp/santos/"
+      }
+    },
+    {
+      "id": "sp-20261018-cartoon",
+      "data": "2026-10-18",
+      "nome": "Corrida Cartoon",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "sp-20261018-stfrs-centernorte",
+      "data": "2026-10-18",
+      "nome": "Santander Track&Field Run Series · Center Norte III",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping Center Norte"
+    },
+    {
+      "id": "sp-20261018-athenas",
+      "data": "2026-10-18",
+      "nome": "Athenas Run Longer",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque do Povo · Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261018-trigo",
+      "data": "2026-10-18",
+      "nome": "8ª Corrida do Trigo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller"
+    },
+    {
+      "id": "sp-20261018-smartfit",
+      "data": "2026-10-18",
+      "nome": "Smart Fit Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque da Independência"
+    },
+    {
+      "id": "sp-20261018-sportv",
+      "data": "2026-10-18",
+      "nome": "6ª Sportv Run · Super 10K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Obelisco · Ibirapuera"
+    },
+    {
+      "id": "santos-20261024-tampinhas",
+      "data": "2026-10-24",
+      "nome": "Corrida Kids Tampinhas do Futuro",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Largada (agregador)",
+        "url": "https://largada.vip/eventos/sp/santos/"
+      }
+    },
+    {
+      "id": "sp-20261024-nightrun",
+      "data": "2026-10-24",
+      "nome": "Night Run · Etapa 2",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "santos-20261025-bluerun",
+      "data": "2026-10-25",
+      "nome": "Porto Saúde Blue Run · Santos",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "distancias": [
+        "5K",
+        "10K"
+      ],
+      "link": "https://circuitobluerun.com.br/santos/unica",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Corrida1 (agregador)",
+        "url": "https://corrida1.com.br/corridas/sp/santos/2026/porto-saude-blue-run-santos-2026-10-25"
+      }
+    },
+    {
+      "id": "santos-20261031-catsrun",
+      "data": "2026-10-31",
+      "nome": "Cats Run Santos 2026",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Largada (agregador)",
+        "url": "https://largada.vip/eventos/sp/santos/"
+      }
+    },
+    {
+      "id": "santos-20261031-garagem",
+      "data": "2026-10-31",
+      "nome": "1º Garagem Run",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Largada (agregador)",
+        "url": "https://largada.vip/eventos/sp/santos/"
+      }
+    },
+    {
+      "id": "sp-20261031-darkrun",
+      "data": "2026-10-31",
+      "nome": "Corrida Dark Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET"
+    },
+    {
+      "id": "sp-20261101-contracancer",
+      "data": "2026-11-01",
+      "nome": "Correndo Contra o Câncer",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Ponte Estaiada · Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261101-dorina",
+      "data": "2026-11-01",
+      "nome": "Corrida Dorina · Para Todos os Sentidos",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque da Independência"
+    },
+    {
+      "id": "sp-20261101-deleseldelas",
+      "data": "2026-11-01",
+      "nome": "Corrida Deles e Delas",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET"
+    },
+    {
+      "id": "sp-20261101-maismulher",
+      "data": "2026-11-01",
+      "nome": "Corrida Circuito Mais Mulher 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller"
+    },
+    {
+      "id": "santos-20261108-santista5",
+      "data": "2026-11-08",
+      "nome": "Campeonato Santista de Pedestrianismo · 5ª etapa",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar"
+    },
+    {
+      "id": "sp-20261108-ecorun",
+      "data": "2026-11-08",
+      "nome": "Eco Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos"
+    },
+    {
+      "id": "sp-20261108-diabetes",
+      "data": "2026-11-08",
+      "nome": "Corrida e Caminhada Novembro Diabetes Azul 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET"
+    },
+    {
+      "id": "sp-20261108-popular",
+      "data": "2026-11-08",
+      "nome": "Circuito Popular de Corridas de Rua da Cidade de São Paulo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça do Patriarca"
+    },
+    {
+      "id": "santos-20261115-santosrun",
+      "data": "2026-11-15",
+      "nome": "12ª Santos Run 8K",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Vila Belmiro",
+      "distancias": [
+        "8K"
+      ],
+      "link": "https://page.ticketsports.com.br/calendario-dbueno-2026/",
+      "fonte": {
+        "nome": "DBueno (organizador)",
+        "url": "https://page.ticketsports.com.br/calendario-dbueno-2026/"
+      }
+    },
+    {
+      "id": "sp-20261115-meiasampa",
+      "data": "2026-11-15",
+      "nome": "Meia de Sampa",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque do Povo · Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261115-caixa",
+      "data": "2026-11-15",
+      "nome": "Circuito de Corridas CAIXA 2026 · Etapa SP",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque da Independência"
+    },
+    {
+      "id": "sp-20261115-minalba",
+      "data": "2026-11-15",
+      "nome": "4ª Desafio Minalba",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Obelisco · Ibirapuera"
+    },
+    {
+      "id": "sp-20261115-liverun",
+      "data": "2026-11-15",
+      "nome": "Corrida LIVE! Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller"
+    },
+    {
+      "id": "sp-20261115-tomjerry",
+      "data": "2026-11-15",
+      "nome": "Corrida Tom & Jerry",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "sp-20261120-kilombo",
+      "data": "2026-11-20",
+      "nome": "Corrida Corre Kilombo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Vale do Anhangabaú"
+    },
+    {
+      "id": "sp-20261120-consciencia",
+      "data": "2026-11-20",
+      "nome": "9ª Corrida e Caminhada da Consciência",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller"
+    },
+    {
+      "id": "sp-20261122-mulhermaravilha",
+      "data": "2026-11-22",
+      "nome": "12ª Corrida Mulher Maravilha",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça do Patriarca · Centro Histórico"
+    },
+    {
+      "id": "sp-20261122-santana",
+      "data": "2026-11-22",
+      "nome": "Corrida Volta de Santana",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Clube Esperia"
+    },
+    {
+      "id": "sp-20261122-disney",
+      "data": "2026-11-22",
+      "nome": "Disney Magic Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Obelisco · Ibirapuera"
+    },
+    {
+      "id": "sp-20261122-pacerun",
+      "data": "2026-11-22",
+      "nome": "Pace Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos"
+    },
+    {
+      "id": "sp-20261128-stormrun",
+      "data": "2026-11-28",
+      "nome": "Storm Run · Night Edition",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "santos-20261129-tf",
+      "data": "2026-11-29",
+      "nome": "Santander Track&Field Run Series · Santos II",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Aquário Municipal · Ponta da Praia",
+      "distancias": [
+        "5K",
+        "9K",
+        "12K"
+      ],
+      "link": "https://www.tfsports.com.br/run-series/santos-ii-2026/",
+      "fonte": {
+        "nome": "Track&Field (organizador)",
+        "url": "https://www.tfsports.com.br/run-series/santos-ii-2026/"
+      }
+    },
+    {
+      "id": "sp-20261129-stfrs-farol",
+      "data": "2026-11-29",
+      "nome": "Santander Track&Field Run Series · Farol Santander",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Centro Histórico"
+    },
+    {
+      "id": "sp-20261129-venus",
+      "data": "2026-11-29",
+      "nome": "Venus Women's Half Marathon",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque do Povo · Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261129-icesp",
+      "data": "2026-11-29",
+      "nome": "ICESP Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller"
+    },
+    {
+      "id": "sp-20261129-ecorun-special",
+      "data": "2026-11-29",
+      "nome": "EcoRun · Special Edition",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque da Independência"
+    },
+    {
+      "id": "santos-20261206-5ktribuna",
+      "data": "2026-12-06",
+      "nome": "5K Tribuna",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "distancias": [
+        "5K"
+      ],
+      "link": "https://tribunarun.com.br/",
+      "fonte": {
+        "nome": "Tribuna Run (organizador)",
+        "url": "https://tribunarun.com.br/"
+      }
+    },
+    {
+      "id": "sp-20261206-inclusao",
+      "data": "2026-12-06",
+      "nome": "XII Inclusão a Toda Prova · Corrida e Caminhada",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Obelisco · Ibirapuera"
+    },
+    {
+      "id": "sp-20261206-stfrs-vilaolimpia",
+      "data": "2026-12-06",
+      "nome": "Santander Track&Field Run Series · Vila Olímpia II",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping Villa-Lobos"
+    },
+    {
+      "id": "santos-20261213-inclusao",
+      "data": "2026-12-13",
+      "nome": "Corrida Inclusão ao Inverso",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Jardim Botânico"
+    },
+    {
+      "id": "sp-20261213-montelibano",
+      "data": "2026-12-13",
+      "nome": "44ª Monte Líbano Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. República do Líbano, 2267"
+    },
+    {
+      "id": "sp-20261213-cidadania",
+      "data": "2026-12-13",
+      "nome": "25ª Corrida pela Cidadania · Projeto Arrastão",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque do Povo · Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261213-gonzaguinha",
+      "data": "2026-12-13",
+      "nome": "59ª Corrida Sargento Gonzaguinha",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. Cruzeiro do Sul"
+    },
+    {
+      "id": "sp-20261213-tfexperience",
+      "data": "2026-12-13",
+      "nome": "Track&Field Experience · Running",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET"
+    },
+    {
+      "id": "sp-20261219-barbie",
+      "data": "2026-12-19",
+      "nome": "Corrida Barbie Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "sp-20261219-hotwheels",
+      "data": "2026-12-19",
+      "nome": "Hot Wheels Run Experience",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "sp-20261220-estacoes",
+      "data": "2026-12-20",
+      "nome": "Circuito das Estações · Verão",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller"
+    },
+    {
+      "id": "sp-20261220-stfrs-villalobos",
+      "data": "2026-12-20",
+      "nome": "Santander Track&Field Run Series · Villa-Lobos III",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping JK · Marginal Pinheiros"
+    },
+    {
+      "id": "sp-20261220-natal",
+      "data": "2026-12-20",
+      "nome": "Corrida de Natal",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET"
+    },
+    {
+      "id": "sp-20261231-saosilvestre",
+      "data": "2026-12-31",
+      "nome": "101ª Corrida Internacional de São Silvestre",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. Paulista · Centro"
+    }
   ]
 }

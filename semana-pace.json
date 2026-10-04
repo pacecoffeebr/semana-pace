@@ -12,17 +12,26 @@
             {
               "titulo": "O café teve o seu dia na ONU",
               "texto": "Quinta-feira (1º) foi o Dia Internacional do Café, e a ONU entrou de vez na festa. O recado deste ano é sobre quem está por trás da xícara: cerca de 25 milhões de famílias produzem uns 80% do café do mundo, e a cadeia ainda divide mal o valor com elas. O Brasil, maior produtor do planeta, responde por cerca de 35% de tudo. Toda xícara tem muita gente correndo junto.",
-              "fonte": { "nome": "ONU News", "url": "https://news.un.org/pt/story/2026/10/1854491" }
+              "fonte": {
+                "nome": "ONU News",
+                "url": "https://news.un.org/pt/story/2026/10/1854491"
+              }
             },
             {
               "titulo": "Safra recorde: 67,6 milhões de sacas",
               "texto": "A Conab soltou a terceira estimativa da safra 2026: 67,6 milhões de sacas, a maior da série histórica. É quase 20% a mais que no ano passado, puxado pelo arábica, que cresceu 34,8%. Minas Gerais segue dona do pedaço. Chuva no lugar certo e mais tecnologia na roça fizeram o resto.",
-              "fonte": { "nome": "O Tempo", "url": "https://www.otempo.com.br/agro/2026/9/25/safra-do-cafe-em-2026-e-estimada-em-67-6-milhoes-de-sacas-a-maior-da-serie-historica" }
+              "fonte": {
+                "nome": "O Tempo",
+                "url": "https://www.otempo.com.br/agro/2026/9/25/safra-do-cafe-em-2026-e-estimada-em-67-6-milhoes-de-sacas-a-maior-da-serie-historica"
+              }
             },
             {
               "titulo": "O brasileiro voltou a encher a xícara",
               "texto": "Segundo a ABIC, as vendas de café no varejo cresceram 4,65% entre maio e agosto, quase o dobro do ritmo do começo do ano. Foram cerca de 7 milhões de sacas no período. A própria ABIC lembra que o frio ajudou. A gente acrescenta: ritual não tira férias.",
-              "fonte": { "nome": "Seu Dinheiro", "url": "https://www.seudinheiro.com/2026/economia/preco-cafe-cai-consumo-aumenta-brasileiros-voltam-encher-xicara-rsgp/" }
+              "fonte": {
+                "nome": "Seu Dinheiro",
+                "url": "https://www.seudinheiro.com/2026/economia/preco-cafe-cai-consumo-aumenta-brasileiros-voltam-encher-xicara-rsgp/"
+              }
             }
           ]
         },
@@ -32,12 +41,18 @@
             {
               "titulo": "Berlim: Adola volta, Assefa quase",
               "texto": "Domingo (27) teve Maratona de Berlim com dois etíopes no topo. Guye Adola venceu de novo, cinco anos depois do primeiro título, com 2h02min50s e recorde pessoal. Tigst Assefa levou a terceira em Berlim com 2h11min04s, a terceira maratona feminina mais rápida da história. Ela vinha no ritmo do recorde mundial até o km 40, aí o corpo cobrou a conta: ficou a 68 segundos. Dói só de ler.",
-              "fonte": { "nome": "Atleta Pro", "url": "https://www.atletapro.com.br/maratona-de-berlim-2026-resultado-adola-assefa/" }
+              "fonte": {
+                "nome": "Atleta Pro",
+                "url": "https://www.atletapro.com.br/maratona-de-berlim-2026-resultado-adola-assefa/"
+              }
             },
             {
               "titulo": "O brasileiro de 47 anos que colou na campeã",
               "texto": "Paulo Roberto Paula, 47 anos, fechou Berlim em 2h12min07s: 30º no geral e campeão da categoria 45 a 49. Até o km 25, ele correu praticamente lado a lado com a Assefa. Se você reclamou do intervalado de terça, talvez seja hora de repensar a vida.",
-              "fonte": { "nome": "Atleta Pro", "url": "https://www.atletapro.com.br/maratona-de-berlim-2026-resultado-adola-assefa/" }
+              "fonte": {
+                "nome": "Atleta Pro",
+                "url": "https://www.atletapro.com.br/maratona-de-berlim-2026-resultado-adola-assefa/"
+              }
             }
           ]
         },
@@ -47,12 +62,18 @@
             {
               "titulo": "11/10 · Maratona de Chicago",
               "texto": "Mais uma major no calendário. Percurso plano, fama de prova rápida e brasileiro pra todo lado na largada. Vale acompanhar.",
-              "fonte": { "nome": "Bank of America Chicago Marathon", "url": "https://www.chicagomarathon.com/" }
+              "fonte": {
+                "nome": "Bank of America Chicago Marathon",
+                "url": "https://www.chicagomarathon.com/"
+              }
             },
             {
-              "titulo": "15/10 · Abrem as assinaturas da Pace Coffee",
-              "texto": "A gente não ia deixar de avisar. Café gourmet todo mês na sua porta, a partir do dia 15.",
-              "fonte": { "nome": "Pace Coffee", "url": "https://www.pacecoffeebr.com.br/?utm_source=app&utm_medium=app_teste&utm_campaign=app_pacecoffee&utm_content=semana_pace" }
+              "titulo": "Em breve · Assinaturas da Pace Coffee",
+              "texto": "Café gourmet todo mês na sua porta. Ainda não dá pra contar a data, mas dá pra ficar de olho. A gente avisa antes do seu despertador de domingo.",
+              "fonte": {
+                "nome": "Pace Coffee",
+                "url": "https://www.pacecoffeebr.com.br/?utm_source=app&utm_medium=app_teste&utm_campaign=app_pacecoffee&utm_content=semana_pace"
+              }
             }
           ]
         },
@@ -62,7 +83,10 @@
             {
               "titulo": "35%",
               "texto": "É a fatia do café do mundo que sai do Brasil. Mais ou menos uma em cada três xícaras do planeta tem sotaque brasileiro.",
-              "fonte": { "nome": "ONU News", "url": "https://news.un.org/pt/story/2026/10/1854491" }
+              "fonte": {
+                "nome": "ONU News",
+                "url": "https://news.un.org/pt/story/2026/10/1854491"
+              }
             }
           ]
         }

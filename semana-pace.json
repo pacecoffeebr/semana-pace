@@ -1,6 +1,115 @@
 {
   "edicoes": [
     {
+      "numero": 1,
+      "data": "2026-10-05",
+      "chamada": "Recorde de amostras no Cerrado, meia lotada na Baixada e Chicago batendo na porta.",
+      "abertura": "Bom dia, essa é a Semana Pace #1. Pega a xícara antes que esfrie, porque a semana foi cheia.",
+      "secoes": [
+        {
+          "nome": "NA XÍCARA",
+          "itens": [
+            {
+              "titulo": "Cerrado Mineiro bate recorde de amostras",
+              "texto": "A Expocacer, cooperativa do Cerrado Mineiro, recebeu 389 amostras na Etapa Campeões 2026, o maior número da sua história. É cerca de 38% a mais que em 2025, quando chegaram 282. A etapa faz parte do 14º Prêmio Região do Cerrado Mineiro, que somou 920 inscrições de 468 produtores. Os campeões saem no dia 15. Tem produtor dormindo menos que corredor em semana de prova.",
+              "fonte": {
+                "nome": "CCCMG",
+                "url": "https://cccmg.com.br/destaque/expocacer-registra-recorde-de-389-amostras-na-etapa-campeoes-2026/"
+              }
+            },
+            {
+              "titulo": "Brasília agora também planta café",
+              "texto": "No Distrito Federal, o número de produtores de café saltou de 83 em 2022 para 183 em 2024. Só no Plano Piloto, a reportagem contou 117 negócios ligados a café. E já tem cafeteria servindo grão colhido ali do lado. Café com CEP da capital: quem diria.",
+              "fonte": {
+                "nome": "Jornal de Brasília",
+                "url": "https://jornaldebrasilia.com.br/estilo-de-vida/gastronomia/cafe-ganha-novos-sabores-e-movimenta-negocios-no-df/"
+              }
+            },
+            {
+              "titulo": "BH virou terra da cafeteria autoral",
+              "texto": "Em Belo Horizonte, cafeteria deixou de ser lugar de pedir um expresso e sair correndo. A aposta agora é bebida autoral e ambiente pra ficar. O Mr. Black Café, por exemplo, começou como uma casa só, há 20 anos, e hoje tem 40 unidades em 7 estados. Se você chega cedo só pra pegar a mesa da janela, já entendeu a tendência.",
+              "fonte": {
+                "nome": "O Tempo",
+                "url": "https://www.otempo.com.br/economia/2026/10/1/cafeterias-bombam-em-bh-e-empreendedores-investem-no-autoral-para-se-destacar"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "NO RITMO",
+          "itens": [
+            {
+              "titulo": "Meia de Praia Grande quase dobrou",
+              "texto": "A 14ª Meia Maratona Tribuna Praia Grande reuniu mais de 5 mil corredores, vindos de 111 cidades. Damião Anselmo de Souza venceu os 21 km com 1h08min05s, e Maria Aparecida Ferraz Salgado levou o feminino com 1h19min53s, quatro minutos à frente da segunda. A estreia dos 5 km puxou mais de mil pessoas, e o total de inscritos quase dobrou em relação ao ano passado. A Baixada tá correndo, e não é atrás do ônibus.",
+              "fonte": {
+                "nome": "Prefeitura de Praia Grande",
+                "url": "https://www2.praiagrande.sp.gov.br/noticia/14-meia-maratona-tribuna-praia-grande-coroa-os-campeoes-damiao-anselmo-e-maria-aparecida-ferraz"
+              }
+            },
+            {
+              "titulo": "Cardiff: recorde do percurso no feminino",
+              "texto": "Domingo (4) teve a Meia de Cardiff, no País de Gales, quarta etapa do circuito SuperHalfs. A queniana Joyciline Jepkosgei venceu com 1h05min40s e derrubou o recorde do percurso, que era de 2017. No masculino, Gideon Kiprotich, também do Quênia, fechou em 59min34s, 44 segundos à frente do segundo. Meia maratona em menos de uma hora: tem gente que leva mais que isso pra achar o outro pé do tênis.",
+              "fonte": {
+                "nome": "World Track",
+                "url": "https://world-track.org/2026/10/2026-cardiff-half-marathon-results-gideon-kiprotich-joyciline-jepkosgei/"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "AGENDA",
+          "itens": [
+            {
+              "titulo": "11/10 · Doe Vida GRAACC em Santos",
+              "texto": "Domingo que vem tem a 11ª Corrida e Caminhada Doe Vida GRAACC, na Ponta da Praia, em frente à Praça do Aquário (Canal 6). Largada às 7h, com 5 km e 10 km de corrida e 5 km de caminhada. A prova ajuda o GRAACC, hospital referência no tratamento de câncer infantojuvenil. Ótimo motivo pra trocar o edredom pela orla.",
+              "fonte": {
+                "nome": "Prefeitura de Santos",
+                "url": "https://www.santos.sp.gov.br/?q=hotsite%2Feventos-esportivos-2026"
+              }
+            },
+            {
+              "titulo": "11/10 · Chicago com Kosgei de volta",
+              "texto": "A 48ª Maratona de Chicago larga no domingo, às 9h30 no horário de Brasília. Jacob Kiplimo, de Uganda, defende o título, e a queniana Brigid Kosgei volta à prova pela primeira vez desde 2019, quando bateu o recorde mundial ali mesmo. Na cadeira de rodas, a brasileira Vanessa Cristina de Souza está na elite. Café passado às 9h20 e sofá posicionado.",
+              "fonte": {
+                "nome": "Atleta Pro",
+                "url": "https://www.atletapro.com.br/maratona-de-chicago-2026-previa-kiplimo-kosgei/"
+              }
+            },
+            {
+              "titulo": "18/10 · Sportv Run Super 10K no Ibirapuera",
+              "texto": "A 6ª Sportv Run larga do Obelisco do Ibirapuera, em São Paulo, só com 10 km. No mesmo domingo a cidade ainda tem Smart Fit Run, Corrida do Trigo e Corrida Cartoon, entre outras. Escolher prova em São Paulo em outubro é mais difícil que escolher o grão. O calendário completo está no app.",
+              "fonte": {
+                "nome": "Prefeitura de São Paulo",
+                "url": "https://prefeitura.sp.gov.br/web/esportes/w/corridas_de_rua/8722"
+              }
+            },
+            {
+              "titulo": "Em breve · Assinaturas da Pace Coffee",
+              "texto": "Café gourmet, blend Arábica + Conilon com grãos selecionados, chegando todo mês na sua porta. A data ainda está no torrador. Fica de olho no app, que a gente avisa primeiro.",
+              "fonte": {
+                "nome": "Pace Coffee",
+                "url": "https://www.pacecoffeebr.com.br/?utm_source=app&utm_medium=app_teste&utm_campaign=app_pacecoffee&utm_content=semana_pace"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "NÚMERO DA SEMANA",
+          "itens": [
+            {
+              "titulo": "1.400",
+              "texto": "É mais ou menos quantas xícaras de café cada brasileiro toma por ano. Dá quase quatro por dia, sem contar a que esfriou na mesa enquanto você olhava a planilha de treino.",
+              "fonte": {
+                "nome": "Jornal de Brasília",
+                "url": "https://jornaldebrasilia.com.br/estilo-de-vida/gastronomia/cafe-ganha-novos-sabores-e-movimenta-negocios-no-df/"
+              }
+            }
+          ]
+        }
+      ],
+      "fecho": "Separa o tênis, passa o café e escolhe a prova. Cada esporte tem seu café."
+    },
+    {
       "numero": 0,
       "data": "2026-10-02",
       "chamada": "Café com dia da ONU, Berlim quase viu recorde e o Brasil voltou a encher a xícara.",

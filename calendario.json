@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04",
+  "atualizadoEm": "2026-10-05",
   "fontes": {
     "sp": {
       "nome": "Prefeitura de São Paulo",
@@ -12,17 +12,61 @@
   },
   "eventos": [
     {
+      "id": "sp-20261008-robru",
+      "data": "2026-10-08",
+      "nome": "Robru Run · 2ª edição",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça José Fortuna",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261010-ironmaiden",
+      "data": "2026-10-10",
+      "nome": "Run For Your Lives · Iron Maiden",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Vale do Anhangabaú",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261010-marginalnight",
+      "data": "2026-10-10",
+      "nome": "2ª Marginal Pinheiros Night Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. Guido Caloi, 252",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "santos-20261011-graacc",
       "data": "2026-10-11",
       "nome": "11ª Corrida e Caminhada Doe Vida GRAACC",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Praça do Aquário",
+      "local": "Praça do Aquário · Canal 6 · Ponta da Praia",
       "link": "https://page.ticketsports.com.br/calendario-dbueno-2026/",
       "fonte": {
         "nome": "DBueno (organizador)",
         "url": "https://page.ticketsports.com.br/calendario-dbueno-2026/"
-      }
+      },
+      "hora": "07:00",
+      "distancias": [
+        "5K",
+        "10K"
+      ]
     },
     {
       "id": "sp-20261011-4elementos",
@@ -49,6 +93,71 @@
       "local": "ALESP · Ibirapuera"
     },
     {
+      "id": "sp-20261011-maromba",
+      "data": "2026-10-11",
+      "nome": "Maromba Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261011-villarun",
+      "data": "2026-10-11",
+      "nome": "Villa Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261011-intermovimento",
+      "data": "2026-10-11",
+      "nome": "2ª Intermovimento Kids",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping Interlagos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261011-riopinheiros",
+      "data": "2026-10-11",
+      "nome": "Corrida Rio Pinheiros",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261011-belinelli",
+      "data": "2026-10-11",
+      "nome": "2ª Corrida Solidária Belinelli",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "R. Américo Brasiliense",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "sp-20261012-paineiras",
       "data": "2026-10-12",
       "nome": "Running Paineiras do Morumbi",
@@ -57,12 +166,65 @@
       "local": "Av. das Begônias"
     },
     {
+      "id": "sp-20261012-aparecida",
+      "data": "2026-10-12",
+      "nome": "Aparecida Run 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261012-trimais",
+      "data": "2026-10-12",
+      "nome": "Corrida Kids Trimais Places · 6ª edição",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping Trimais Places",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261017-rosas",
+      "data": "2026-10-17",
+      "nome": "Rosas Run 3K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261017-comerciosantana",
+      "data": "2026-10-17",
+      "nome": "1ª Corrida do Comércio de Santana",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. Castelo Branco",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "santos-20261018-santista4",
       "data": "2026-10-18",
       "nome": "39º Campeonato Santista de Pedestrianismo · 4ª etapa",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Local a confirmar"
+      "local": "Local a confirmar",
+      "hora": "07:00"
     },
     {
       "id": "santos-20261018-correesamba",
@@ -75,7 +237,10 @@
       "fonte": {
         "nome": "Largada (agregador)",
         "url": "https://largada.vip/eventos/sp/santos/"
-      }
+      },
+      "distancias": [
+        "5K"
+      ]
     },
     {
       "id": "sp-20261018-cartoon",
@@ -126,6 +291,97 @@
       "local": "Obelisco · Ibirapuera"
     },
     {
+      "id": "sp-20261018-entrelas",
+      "data": "2026-10-18",
+      "nome": "Caminhada & Corrida Entrelas",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Clínica Pinotti",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-poderderainha",
+      "data": "2026-10-18",
+      "nome": "Corrida Poder de Rainha 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-brincartransforma",
+      "data": "2026-10-18",
+      "nome": "Brincar Transforma · Corrida Infantil",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Shopping Penha",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-rosachallenge",
+      "data": "2026-10-18",
+      "nome": "1ª Rosa Challenge Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-aurakids",
+      "data": "2026-10-18",
+      "nome": "1ª Corrida Oficial Aura Kids",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Ciclovia Parque Jacuí",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-urbantrail",
+      "data": "2026-10-18",
+      "nome": "Urban Trail Run · Etapa 2",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Horto Florestal",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-hoperun",
+      "data": "2026-10-18",
+      "nome": "Hope Run 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Charles Miller",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "santos-20261024-tampinhas",
       "data": "2026-10-24",
       "nome": "Corrida Kids Tampinhas do Futuro",
@@ -147,6 +403,71 @@
       "local": "Campo de Marte"
     },
     {
+      "id": "sp-20261024-cbar",
+      "data": "2026-10-24",
+      "nome": "6ª CBAr Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ibirapuera",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261024-nightbrunocovas",
+      "data": "2026-10-24",
+      "nome": "5ª Night Run Parque Bruno Covas",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261024-ladiesfight",
+      "data": "2026-10-24",
+      "nome": "4ª Corrida Ladies Fight",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261024-nightrosa",
+      "data": "2026-10-24",
+      "nome": "Night Run Outubro Rosa · 2ª edição",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Espaço Funcional Training",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261024-fleury",
+      "data": "2026-10-24",
+      "nome": "1ª Fleury Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "santos-20261025-bluerun",
       "data": "2026-10-25",
       "nome": "Porto Saúde Blue Run · Santos",
@@ -162,6 +483,58 @@
       "fonte": {
         "nome": "Corrida1 (agregador)",
         "url": "https://corrida1.com.br/corridas/sp/santos/2026/porto-saude-blue-run-santos-2026-10-25"
+      }
+    },
+    {
+      "id": "sp-20261025-halloween",
+      "data": "2026-10-25",
+      "nome": "Halloween Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261025-sonhos",
+      "data": "2026-10-25",
+      "nome": "Corrida dos Sonhos 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ibirapuera",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261025-agitazonasul",
+      "data": "2026-10-25",
+      "nome": "7º Agita Zona Sul · Corrida e Caminhada",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Ciclovia Marginal Pinheiros",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261027-runjin",
+      "data": "2026-10-27",
+      "nome": "Run Jin: After Hours",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Round 2 Arcade Bar",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
       }
     },
     {
@@ -199,6 +572,45 @@
       "local": "CERET"
     },
     {
+      "id": "sp-20261031-trote",
+      "data": "2026-10-31",
+      "nome": "3ª Night Run Parque do Trote",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Av. Nadir Dias Figueiredo",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261031-helloween",
+      "data": "2026-10-31",
+      "nome": "1ª Night Run Helloween",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261031-assombrada",
+      "data": "2026-10-31",
+      "nome": "2ª Corrida Assombrada 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "sp-20261101-contracancer",
       "data": "2026-11-01",
       "nome": "Correndo Contra o Câncer",
@@ -231,12 +643,65 @@
       "local": "Praça Charles Miller"
     },
     {
+      "id": "sp-20261101-meninasmalvadas",
+      "data": "2026-11-01",
+      "nome": "2ª Corrida Meninas Malvadas Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261101-parquerun",
+      "data": "2026-11-01",
+      "nome": "1ª Parque Run · Etapa Bruno Covas",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261102-rockrun",
+      "data": "2026-11-02",
+      "nome": "Rock Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261107-nightnovorio",
+      "data": "2026-11-07",
+      "nome": "18ª Night Run Novo Rio Pinheiros",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "santos-20261108-santista5",
       "data": "2026-11-08",
       "nome": "Campeonato Santista de Pedestrianismo · 5ª etapa",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Local a confirmar"
+      "local": "Local a confirmar",
+      "hora": "07:00"
     },
     {
       "id": "sp-20261108-ecorun",
@@ -263,12 +728,51 @@
       "local": "Praça do Patriarca"
     },
     {
+      "id": "sp-20261108-gerenciamentorisco",
+      "data": "2026-11-08",
+      "nome": "1ª Corrida Mulheres do Gerenciamento de Risco",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Praça Oswaldo Cruz",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261108-powerrangers",
+      "data": "2026-11-08",
+      "nome": "Run Run Power Rangers",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261108-umsosangue",
+      "data": "2026-11-08",
+      "nome": "5ª Corrida e Caminhada Um Só Sangue",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "santos-20261115-santosrun",
       "data": "2026-11-15",
       "nome": "12ª Santos Run 8K",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Vila Belmiro",
+      "local": "Vila Belmiro · portão 16, R. Princesa Isabel",
       "distancias": [
         "8K"
       ],
@@ -276,7 +780,8 @@
       "fonte": {
         "nome": "DBueno (organizador)",
         "url": "https://page.ticketsports.com.br/calendario-dbueno-2026/"
-      }
+      },
+      "hora": "07:00"
     },
     {
       "id": "sp-20261115-meiasampa",
@@ -319,6 +824,66 @@
       "local": "Campo de Marte"
     },
     {
+      "id": "sp-20261115-portoautodromo",
+      "data": "2026-11-15",
+      "nome": "Bike e Running Porto Autódromo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Autódromo de Interlagos"
+    },
+    {
+      "id": "sp-20261115-colheita",
+      "data": "2026-11-15",
+      "nome": "Colheita Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261115-republica",
+      "data": "2026-11-15",
+      "nome": "Brasil República Run 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261115-zoorun",
+      "data": "2026-11-15",
+      "nome": "Circuito Zoo Run · Etapa Coiote",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Zoológico de São Paulo",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261115-trivitt",
+      "data": "2026-11-15",
+      "nome": "2ª Trivitt Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "sp-20261120-kilombo",
       "data": "2026-11-20",
       "nome": "Corrida Corre Kilombo",
@@ -333,6 +898,53 @@
       "cidade": "sp",
       "esporte": "corrida",
       "local": "Praça Charles Miller"
+    },
+    {
+      "id": "sp-20261120-conscienciarun",
+      "data": "2026-11-20",
+      "nome": "Consciência Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261121-tricolor",
+      "data": "2026-11-21",
+      "nome": "Tricolor Run Noturna · 2ª etapa",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Estádio do Morumbis"
+    },
+    {
+      "id": "sp-20261121-nightrosaazul",
+      "data": "2026-11-21",
+      "nome": "Night Run Outubro Rosa e Novembro Azul",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261121-espias",
+      "data": "2026-11-21",
+      "nome": "Espiãs Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
     },
     {
       "id": "sp-20261122-mulhermaravilha",
@@ -367,6 +979,45 @@
       "local": "Parque Villa-Lobos"
     },
     {
+      "id": "sp-20261122-conquista",
+      "data": "2026-11-22",
+      "nome": "1ª Corrida da Conquista",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261122-kazamigas",
+      "data": "2026-11-22",
+      "nome": "Corrida Kazamigas · Etapa São Paulo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261127-27run",
+      "data": "2026-11-27",
+      "nome": "27 Run 5K Ano Novo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "sp-20261128-stormrun",
       "data": "2026-11-28",
       "nome": "Storm Run · Night Edition",
@@ -375,12 +1026,38 @@
       "local": "Campo de Marte"
     },
     {
+      "id": "sp-20261128-nightnamorados",
+      "data": "2026-11-28",
+      "nome": "1ª Night Run dos Namorados",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261128-novembroazul",
+      "data": "2026-11-28",
+      "nome": "10ª Corrida Novembro Azul",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "santos-20261129-tf",
       "data": "2026-11-29",
       "nome": "Santander Track&Field Run Series · Santos II",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Aquário Municipal · Ponta da Praia",
+      "local": "Aquário Municipal · Av. Bartholomeu de Gusmão, Ponta da Praia",
       "distancias": [
         "5K",
         "9K",
@@ -390,7 +1067,8 @@
       "fonte": {
         "nome": "Track&Field (organizador)",
         "url": "https://www.tfsports.com.br/run-series/santos-ii-2026/"
-      }
+      },
+      "hora": "06:00"
     },
     {
       "id": "sp-20261129-stfrs-farol",
@@ -425,6 +1103,53 @@
       "local": "Parque da Independência"
     },
     {
+      "id": "sp-20261129-distritoinovacao",
+      "data": "2026-11-29",
+      "nome": "Corrida do Distrito de Inovação de São Paulo",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "USP · Distrito de Inovação"
+    },
+    {
+      "id": "sp-20261129-sertanejo",
+      "data": "2026-11-29",
+      "nome": "Sertanejo Run SP 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261129-reierainha",
+      "data": "2026-11-29",
+      "nome": "1º Desafio Rei e Rainha",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Ciclovia Rio Pinheiros",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261129-imperium",
+      "data": "2026-11-29",
+      "nome": "Imperium Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "santos-20261206-5ktribuna",
       "data": "2026-12-06",
       "nome": "5K Tribuna",
@@ -457,12 +1182,50 @@
       "local": "Shopping Villa-Lobos"
     },
     {
+      "id": "sp-20261206-tricolor",
+      "data": "2026-12-06",
+      "nome": "Tricolor Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Estádio do Morumbis"
+    },
+    {
+      "id": "sp-20261206-sesi",
+      "data": "2026-12-06",
+      "nome": "Circuito Estações em Movimento SESI SP",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Complexo SESI Itaquera"
+    },
+    {
+      "id": "sp-20261206-agen",
+      "data": "2026-12-06",
+      "nome": "Agen Run 4K e 8K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "CERET",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261212-saosilvestrinha",
+      "data": "2026-12-12",
+      "nome": "São Silvestrinha",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Centro Olímpico"
+    },
+    {
       "id": "santos-20261213-inclusao",
       "data": "2026-12-13",
       "nome": "Corrida Inclusão ao Inverso",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Jardim Botânico"
+      "local": "Jardim Botânico",
+      "hora": "09:00"
     },
     {
       "id": "sp-20261213-montelibano",
@@ -495,6 +1258,40 @@
       "cidade": "sp",
       "esporte": "corrida",
       "local": "CERET"
+    },
+    {
+      "id": "sp-20261213-ladybug",
+      "data": "2026-12-13",
+      "nome": "Lady Bug Family Sports",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte"
+    },
+    {
+      "id": "sp-20261213-cristovive",
+      "data": "2026-12-13",
+      "nome": "Corrida Cristo Vive Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261213-contrafome",
+      "data": "2026-12-13",
+      "nome": "Corrida e Caminhada Contra a Fome 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
     },
     {
       "id": "sp-20261219-barbie",
@@ -537,12 +1334,98 @@
       "local": "CERET"
     },
     {
+      "id": "sp-20261220-naruto",
+      "data": "2026-12-20",
+      "nome": "Corrida do Naruto",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261220-jesuslive",
+      "data": "2026-12-20",
+      "nome": "5º Jesus Live Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261220-gospel",
+      "data": "2026-12-20",
+      "nome": "Gospel Run 5K",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ecológico do Tietê",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261226-nightshow",
+      "data": "2026-12-26",
+      "nome": "32ª Night Run Show",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
+      "id": "sp-20261227-saosilvestrinha",
+      "data": "2026-12-27",
+      "nome": "São Silvestrinha",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Centro Olímpico"
+    },
+    {
+      "id": "sp-20261227-reveillon",
+      "data": "2026-12-27",
+      "nome": "2ª Corrida Réveillon Run",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Autódromo de Interlagos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
       "id": "sp-20261231-saosilvestre",
       "data": "2026-12-31",
       "nome": "101ª Corrida Internacional de São Silvestre",
       "cidade": "sp",
       "esporte": "corrida",
       "local": "Av. Paulista · Centro"
+    },
+    {
+      "id": "sp-20261231-virada",
+      "data": "2026-12-31",
+      "nome": "Corrida da Virada 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
     }
   ]
 }

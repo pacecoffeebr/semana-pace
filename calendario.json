@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05",
+  "atualizadoEm": "2026-10-14",
   "fontes": {
     "sp": {
       "nome": "Prefeitura de São Paulo",
@@ -192,12 +192,12 @@
       }
     },
     {
-      "id": "sp-20261017-rosas",
-      "data": "2026-10-17",
-      "nome": "Rosas Run 3K",
+      "id": "sp-20261013-runforthem",
+      "data": "2026-10-13",
+      "nome": "Run For Them · 8ª edição",
       "cidade": "sp",
       "esporte": "corrida",
-      "local": "Parque Ecológico do Tietê",
+      "local": "Copan · Centro",
       "confirmado": false,
       "fonte": {
         "nome": "Bora Correr Brasil (agregador)",
@@ -205,12 +205,12 @@
       }
     },
     {
-      "id": "sp-20261017-comerciosantana",
+      "id": "sp-20261017-rosas",
       "data": "2026-10-17",
-      "nome": "1ª Corrida do Comércio de Santana",
+      "nome": "Rosas Run 3K",
       "cidade": "sp",
       "esporte": "corrida",
-      "local": "Av. Castelo Branco",
+      "local": "Parque Ecológico do Tietê",
       "confirmado": false,
       "fonte": {
         "nome": "Bora Correr Brasil (agregador)",
@@ -232,15 +232,16 @@
       "nome": "Corre e Samba · 14ª Corrida Solidária RP Run Club",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Local a confirmar",
-      "confirmado": false,
+      "local": "Sírio Beach Club · Canal 3 · faixa de areia",
       "fonte": {
-        "nome": "Largada (agregador)",
-        "url": "https://largada.vip/eventos/sp/santos/"
+        "nome": "Sympla (inscrição oficial)",
+        "url": "https://www.sympla.com.br/evento/corre-e-samba-14a-corrida-solidaria-rp-run-club/3547460"
       },
       "distancias": [
         "5K"
-      ]
+      ],
+      "hora": "07:30",
+      "link": "https://www.sympla.com.br/evento/corre-e-samba-14a-corrida-solidaria-rp-run-club/3547460"
     },
     {
       "id": "sp-20261018-cartoon",
@@ -382,17 +383,44 @@
       }
     },
     {
+      "id": "sp-20261018-uolrun",
+      "data": "2026-10-18",
+      "nome": "UOL Run 30 Anos",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Ibirapuera",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261018-blurun",
+      "data": "2026-10-18",
+      "nome": "Blu Run 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "O Pão Padaria Artesanal",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "santos-20261024-tampinhas",
       "data": "2026-10-24",
       "nome": "Corrida Kids Tampinhas do Futuro",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Local a confirmar",
-      "confirmado": false,
+      "local": "Parque Roberto Mário Santini · José Menino · faixa de areia",
       "fonte": {
-        "nome": "Largada (agregador)",
-        "url": "https://largada.vip/eventos/sp/santos/"
-      }
+        "nome": "Sympla (inscrição oficial)",
+        "url": "https://www.sympla.com.br/evento/corrida-kids-tampinhas-do-futuro-24-10-2026/3602075"
+      },
+      "hora": "09:00",
+      "link": "https://www.sympla.com.br/evento/corrida-kids-tampinhas-do-futuro-24-10-2026/3602075"
     },
     {
       "id": "sp-20261024-nightrun",
@@ -468,21 +496,16 @@
       }
     },
     {
-      "id": "santos-20261025-bluerun",
-      "data": "2026-10-25",
-      "nome": "Porto Saúde Blue Run · Santos",
-      "cidade": "santos",
+      "id": "sp-20261024-herrun",
+      "data": "2026-10-24",
+      "nome": "Her Run · 4ª edição",
+      "cidade": "sp",
       "esporte": "corrida",
-      "local": "Local a confirmar",
-      "distancias": [
-        "5K",
-        "10K"
-      ],
-      "link": "https://circuitobluerun.com.br/santos/unica",
+      "local": "Botanikafé Pinheiros",
       "confirmado": false,
       "fonte": {
-        "nome": "Corrida1 (agregador)",
-        "url": "https://corrida1.com.br/corridas/sp/santos/2026/porto-saude-blue-run-santos-2026-10-25"
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
       }
     },
     {
@@ -525,6 +548,32 @@
       }
     },
     {
+      "id": "sp-20261025-rosaemmovimento",
+      "data": "2026-10-25",
+      "nome": "Corrida e Caminhada Rosa em Movimento",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Ciclovia Sabesp",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "sp-20261025-ecorunverde",
+      "data": "2026-10-25",
+      "nome": "Corrida Eco Run do Verde",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Anhanguera",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
       "id": "sp-20261027-runjin",
       "data": "2026-10-27",
       "nome": "Run Jin: After Hours",
@@ -543,12 +592,17 @@
       "nome": "Cats Run Santos 2026",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Local a confirmar",
+      "local": "Praia do José Menino · faixa de areia",
       "confirmado": false,
       "fonte": {
         "nome": "Largada (agregador)",
-        "url": "https://largada.vip/eventos/sp/santos/"
-      }
+        "url": "https://largada.vip/eventos/sp/santos/cats-run-santos-2026/87614/"
+      },
+      "hora": "19:30",
+      "distancias": [
+        "5K"
+      ],
+      "link": "https://www.ticketsports.com.br/e/cats+run+santos+2026-87614"
     },
     {
       "id": "santos-20261031-garagem",
@@ -556,12 +610,16 @@
       "nome": "1º Garagem Run",
       "cidade": "santos",
       "esporte": "corrida",
-      "local": "Local a confirmar",
-      "confirmado": false,
+      "local": "Treino de Garagem · Praça das Bandeiras",
       "fonte": {
-        "nome": "Largada (agregador)",
-        "url": "https://largada.vip/eventos/sp/santos/"
-      }
+        "nome": "Sympla (inscrição oficial)",
+        "url": "https://www.sympla.com.br/evento/1-garagem-run/3585113"
+      },
+      "hora": "06:30",
+      "distancias": [
+        "5K"
+      ],
+      "link": "https://www.sympla.com.br/evento/1-garagem-run/3585113"
     },
     {
       "id": "sp-20261031-darkrun",
@@ -608,6 +666,24 @@
       "fonte": {
         "nome": "Bora Correr Brasil (agregador)",
         "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-outubro-2026"
+      }
+    },
+    {
+      "id": "santos-20261101-bluerun",
+      "data": "2026-11-01",
+      "nome": "Porto Saúde Blue Run · Santos",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "distancias": [
+        "5K",
+        "10K"
+      ],
+      "link": "https://circuitobluerun.com.br/santos/unica",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Largada (agregador)",
+        "url": "https://largada.vip/eventos/sp/santos/blue-run-2026-santos/86565/"
       }
     },
     {
@@ -884,6 +960,19 @@
       }
     },
     {
+      "id": "sp-20261115-after",
+      "data": "2026-11-15",
+      "nome": "Corrida do After 2026",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Campo de Marte",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-novembro-2026"
+      }
+    },
+    {
       "id": "sp-20261120-kilombo",
       "data": "2026-11-20",
       "nome": "Corrida Corre Kilombo",
@@ -1150,6 +1239,19 @@
       }
     },
     {
+      "id": "sp-20261205-rotanoturna",
+      "data": "2026-12-05",
+      "nome": "1ª Night Run Rota Noturna",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
       "id": "santos-20261206-5ktribuna",
       "data": "2026-12-06",
       "nome": "5K Tribuna",
@@ -1211,6 +1313,19 @@
       }
     },
     {
+      "id": "sp-20261206-novoriopinheiros",
+      "data": "2026-12-06",
+      "nome": "15ª Corrida Novo Rio Pinheiros",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Bruno Covas",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
+    },
+    {
       "id": "sp-20261212-saosilvestrinha",
       "data": "2026-12-12",
       "nome": "São Silvestrinha",
@@ -1226,6 +1341,21 @@
       "esporte": "corrida",
       "local": "Jardim Botânico",
       "hora": "09:00"
+    },
+    {
+      "id": "santos-20261213-mentone",
+      "data": "2026-12-13",
+      "nome": "Mentone Run · A Identidade",
+      "cidade": "santos",
+      "esporte": "corrida",
+      "local": "Local a confirmar",
+      "hora": "07:00",
+      "link": "https://www.ticketsports.com.br/e/mentone+run+-+a+identidade+-86560",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Largada (agregador)",
+        "url": "https://largada.vip/eventos/sp/santos/mentone-run-a-identidade/86560/"
+      }
     },
     {
       "id": "sp-20261213-montelibano",
@@ -1308,6 +1438,19 @@
       "cidade": "sp",
       "esporte": "corrida",
       "local": "Campo de Marte"
+    },
+    {
+      "id": "sp-20261219-bobesponja",
+      "data": "2026-12-19",
+      "nome": "Corrida do Bob Esponja · Especial de Natal",
+      "cidade": "sp",
+      "esporte": "corrida",
+      "local": "Parque Villa-Lobos",
+      "confirmado": false,
+      "fonte": {
+        "nome": "Bora Correr Brasil (agregador)",
+        "url": "https://www.boracorrerbrasil.com.br/sao-paulo/corridas-em-dezembro-2026"
+      }
     },
     {
       "id": "sp-20261220-estacoes",

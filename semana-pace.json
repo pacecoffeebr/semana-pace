@@ -1,6 +1,107 @@
 {
   "edicoes": [
     {
+      "numero": 2,
+      "data": "2026-10-14",
+      "chamada": "Minas bate recorde de cafés na disputa, a Colômbia colhe menos e Chicago põe três mulheres abaixo de 2h15.",
+      "abertura": "Bom dia, essa é a Semana Pace #2, saindo numa quarta porque até newsletter tem treino remarcado. Passa o café que a gente resume o resto.",
+      "secoes": [
+        {
+          "nome": "NA XÍCARA",
+          "itens": [
+            {
+              "titulo": "Minas: quase 2 mil cafés na disputa",
+              "texto": "O 23º Concurso Estadual de Qualidade dos Cafés de Minas Gerais, da Emater-MG, recebeu 1.982 amostras, recorde da competição. Tem café do Cerrado Mineiro, da Chapada de Minas, das Matas de Minas e do Sul de Minas. E 73% das propriedades inscritas têm até 10 hectares. Pra seguir na disputa, o café precisa de pelo menos 85 pontos de 100, e o resultado sai em 10 de dezembro, em BH. Nota de corte mais puxada que a do seu teste de 3 km.",
+              "fonte": {
+                "nome": "O Tempo",
+                "url": "https://www.otempo.com.br/agro/2026/10/8/concurso-que-vai-premiar-o-melhor-cafe-de-mg-tem-recorde-de-inscritos-com-quase-2-000-amostras"
+              }
+            },
+            {
+              "titulo": "Colômbia colheu 15% menos café",
+              "texto": "A Federação Nacional de Cafeteros fechou as contas do ano cafeeiro, de outubro de 2025 a setembro de 2026: 12,65 milhões de sacas. No ciclo anterior tinham sido 14,87 milhões. A boa notícia é que setembro veio 6% acima do mesmo mês de 2025. Ou seja, os vizinhos terminaram a temporada em negativo, mas com um último km forte.",
+              "fonte": {
+                "nome": "Portafolio",
+                "url": "https://portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "NO RITMO",
+          "itens": [
+            {
+              "titulo": "Kipruto vence Chicago com 2h01min09s",
+              "texto": "Domingo (11) teve Maratona de Chicago, e o queniano Amos Kipruto venceu com 2h01min09s, recorde pessoal e primeiro título dele na prova. Os etíopes Tadese Bikila e Milkesa Mengesha completaram o pódio. No feminino, a etíope Hawi Feysa repetiu o título com 2h13min33s, e Brigid Kosgei, na volta a Chicago, ficou em terceiro. A meia passou em 1h00min21s, pace que muita gente não segura nem no tiro de 400.",
+              "fonte": {
+                "nome": "Contra Relógio",
+                "url": "https://contrarelogio.com.br/kipruto-e-feysa-vencem-a-maratona-de-chicago-mulheres-fazem-historia/"
+              }
+            },
+            {
+              "titulo": "Brasil em Chicago: recorde pessoal e top 5",
+              "texto": "José Eraldo Lima foi o brasileiro mais rápido, com 2h20min34s e recorde pessoal. Entre as brasileiras, Marilia Serizawa liderou com 2h56min39s. Na cadeira de rodas, Vanessa Cristina de Souza fechou em 5º, com 1h47min14s, a dois segundos do quarto lugar. Na mesma prova, a suíça Catherine Debrunner venceu com recorde mundial: 1h33min16s. Dois segundos é menos do que você leva pra achar o botão de parar o relógio.",
+              "fonte": {
+                "nome": "Contra Relógio",
+                "url": "https://contrarelogio.com.br/kipruto-e-feysa-vencem-a-maratona-de-chicago-mulheres-fazem-historia/"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "AGENDA",
+          "itens": [
+            {
+              "titulo": "17/10 · Rio Coffee Nation no Jockey",
+              "texto": "A 7ª edição do Rio Coffee Nation ocupa o EXC, no Jockey Club Brasileiro, no sábado (17) e no domingo (18). No sábado sai o ranking The Best Coffee Shops Brazil 2026, com as melhores cafeterias do país. No domingo é a vez do prêmio de melhor café torrado para espresso. Ainda tem palco com chefs e bartenders usando café em receita e drink. Dá pra fazer o longão cedo e chegar com a desculpa perfeita pra segunda xícara.",
+              "fonte": {
+                "nome": "Riotur",
+                "url": "https://riotur.rio/?p=61115"
+              }
+            },
+            {
+              "titulo": "18/10 · Corre e Samba na areia de Santos",
+              "texto": "Domingo tem a Corre e Samba, 14ª Corrida Solidária do RP Run Club, com largada às 7h30 no Sírio Beach Club, no Canal 3. São 5 km de corrida ou 2,5 km de caminhada, tudo na faixa de areia. No mesmo dia rola a 4ª etapa do Campeonato Santista de Pedestrianismo. Correr na areia é o jeito mais honesto de descobrir que você tem panturrilha.",
+              "fonte": {
+                "nome": "Sympla (inscrição oficial)",
+                "url": "https://www.sympla.com.br/evento/corre-e-samba-14a-corrida-solidaria-rp-run-club/3547460"
+              }
+            },
+            {
+              "titulo": "24/10 · Night Run no Campo de Marte",
+              "texto": "A etapa 2 da Night Run larga no sábado (24), no Campo de Marte, em São Paulo. Prova de sábado à noite tem uma vantagem clara: o despertador de domingo ganha folga. Antes disso, no domingo (18), a capital ainda tem Sportv Run, Smart Fit Run e Corrida do Trigo. O calendário completo de SP e Santos está no app.",
+              "fonte": {
+                "nome": "Prefeitura de São Paulo",
+                "url": "https://prefeitura.sp.gov.br/web/esportes/w/corridas_de_rua/8722"
+              }
+            },
+            {
+              "titulo": "Em breve · Assinaturas da Pace Coffee",
+              "texto": "Café gourmet, blend Arábica + Conilon com grãos selecionados, numa edição pensada pra quem corre. A data ainda está em ajuste fino, tipo pace de prova-alvo. Quem está no app fica sabendo primeiro.",
+              "fonte": {
+                "nome": "Pace Coffee",
+                "url": "https://www.pacecoffeebr.com.br/?utm_source=app&utm_medium=app_teste&utm_campaign=app_pacecoffee&utm_content=semana_pace"
+              }
+            }
+          ]
+        },
+        {
+          "nome": "NÚMERO DA SEMANA",
+          "itens": [
+            {
+              "titulo": "3",
+              "texto": "Pela primeira vez na história da maratona, três mulheres fecharam a mesma prova abaixo de 2h15: Hawi Feysa, Sharon Lokedi e Brigid Kosgei, em Chicago. Dá um pace médio perto de 3min12s por km, mais rápido que muita gente desce ladeira.",
+              "fonte": {
+                "nome": "Contra Relógio",
+                "url": "https://contrarelogio.com.br/kipruto-e-feysa-vencem-a-maratona-de-chicago-mulheres-fazem-historia/"
+              }
+            }
+          ]
+        }
+      ],
+      "fecho": "Café passado, tênis amarrado e a planilha que lute. Cada esporte tem seu café."
+    },
+    {
       "numero": 1,
       "data": "2026-10-05",
       "chamada": "Recorde de amostras no Cerrado, meia lotada na Baixada e Chicago batendo na porta.",
